@@ -47,8 +47,8 @@ export default function App() {
         <div class="text-white h-16 mx-auto px-5 flex items-center justify-center">
           <ul class="flex items-center gap-5">
           <li class="text-xl">More Of My Work:</li>
-          <a href="https://kwantekasala6.artstation.com/" target="_blank"><img class="object-contain h-5" src="src/assets/artstation-logo-white.png"/></a>
-          <a class="inline-flex items-center" href="https://www.youtube.com/@kwantekasala5759" target="_blank"><img class="object-contain h-12" src="src/assets/youtube-100.png"/>Youtube</a>
+          <a href="https://kwantekasala6.artstation.com/" target="_blank"><img class="object-contain h-5" src="images/artstation-logo-white.png"/></a>
+          <a class="inline-flex items-center" href="https://www.youtube.com/@kwantekasala5759" target="_blank"><img class="object-contain h-12" src="images/youtube-100.png"/>Youtube</a>
           </ul>
         </div>
       </footer>
