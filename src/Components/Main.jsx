@@ -3,7 +3,7 @@ import React from "react";
 export default function Main() {
   return (
     <div class="flex items-center justify-center text-white my-12">
-      <img class="my-5" src="./src/assets/avatar.png" />
+      <img class="my-5" src="src/assets/avatar.png" />
       <div class="flex w-1/3 ml-10 space-y-10 flex-col ">
         <h1 class="text-6xl">Hi! I’m Kwan</h1>
         <h2 class="text-2xl font-sans">
