@@ -1,0 +1,19 @@
+{
+    "resources": [
+      {
+        "title": "Wiz",
+        "link": "https://indieweb.social/@kendalmintcode",
+        "imageUrl": "images/wiz-1.png"
+      },
+      {
+        "title": "Skater Dude",
+        "link": "https://ark-labs.co.uk",
+        "imageUrl": "images/skater-dude.png"
+      },
+      {
+        "title": "Male Base",
+        "link": "https://indieweb.social/@kendalmintcode",
+        "imageUrl": "images/male-base.png"
+      }
+    ]
+  }
